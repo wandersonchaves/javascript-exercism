@@ -8,3 +8,5 @@
 
 ### Resistor Color Duo resolved
 
+### Gigasecond resolved
+
