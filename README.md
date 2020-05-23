@@ -5,3 +5,6 @@
 ### Two Fer resolved
 
 ### Resistor Color resolved
+
+### Resistor Color Duo resolved
+
