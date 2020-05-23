@@ -1,0 +1,9 @@
+# Logs
+*.log
+
+# IDE
+.vscode
+.exercism
+
+# Dependency directory
+node_modules
