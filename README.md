@@ -1,5 +1,7 @@
 ### Example created
 
-### Hello-World resolved
+### Hello World resolved
 
-### Two-fer resolved
+### Two Fer resolved
+
+### Resistor Color resolved
